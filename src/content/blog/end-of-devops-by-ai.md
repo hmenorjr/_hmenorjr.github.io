@@ -3,7 +3,6 @@ title: 'End of DevOps by AI'
 description: 'With the AI era, I wonder if my profession as a Platform Engineer or DevOps Engineer will still be relevant.'
 pubDate: '2026-05-19'
 heroImage: '../../images/ai_vs_human_in_cyberspace.webp'
-featured: true
 ---
 
 With the AI era, I wonder if my profession as a Platform Engineer or DevOps Engineer will still be relevant.

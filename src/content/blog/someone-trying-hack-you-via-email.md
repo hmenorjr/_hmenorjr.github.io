@@ -3,7 +3,6 @@ title: 'Someone is Trying to Hack You via Email'
 description: "Lately, I've beeng getting phishing emails pretending to be bank transactions from the Philippines. This is not new, even in the United States or other parts of the world."
 pubDate: '2025-08-12'
 heroImage: '../../images/blog-phishing-email.webp'
-featured: true
 ---
 
 Lately, I've beeng getting phishing emails pretending to be bank transactions from the Philippines. This is not new, even in the United States or other parts of the world.
