@@ -2,7 +2,7 @@
 title: 'ChatGPT in Viber: A Helpful Assistant or an Unwelcome Guest?'
 description: 'The integration of ChatGPT into Viber marks a significant shift in how we interact with messaging apps, transforming them from simple communication tools into multifunctional platforms. While this move aligns with the industry trend of creating "super apps," it sparks a debate between enhanced utility and user autonomy.'
 pubDate: '2026-06-25'
-heroImage: '../../images/chatgpt-in-viber.md'
+heroImage: '../../images/chatgpt-in-viber.webp'
 ---
 
 The integration of ChatGPT into Viber marks a significant shift in how we interact with messaging apps, transforming them from simple communication tools into multifunctional platforms. While this move aligns with the industry trend of creating "super apps," it sparks a debate between enhanced utility and user autonomy.
